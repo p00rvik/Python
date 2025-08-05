@@ -1,4 +1,4 @@
 # Python
-<h1>Basics and foundation</h1> 
+<strong><ins>Basics and foundation<ins></strong>
 <br>
-<b>Author</b>: Vidya Vardhana
+<b>Author</b>:<i> Vidya Vardhana</i>
