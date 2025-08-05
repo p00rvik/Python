@@ -1,4 +1,4 @@
 # Python
 Basics and foundation 
 <br>
-Author: Vidya Vardhana
+<bold>Author<\bold>: Vidya Vardhana
